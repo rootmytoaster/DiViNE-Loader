@@ -1,4 +1,4 @@
-# DiViNE Loader by Debug aka rootmytoaster
+# DiViNE Loader by Debug
 
 ## What is DiViNE?
 DiViNE is a personal project learning maldev and some included analysis for the gang. DiViNE Loader is a Windows executable that is disguised as a legit application, and even fails to mislead the "victim". It's designed to show how malware can hide malicious functionality mixed with legitimate functionality in the background (Performing crypto/decryption operations, fibonacci calculations for work load, etc.). This specific implementation executes a harmless payload (launching the Windows calculator) but uses techniques common in real-world malware.
